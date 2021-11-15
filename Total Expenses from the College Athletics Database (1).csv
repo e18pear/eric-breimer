@@ -1,0 +1,24 @@
+"Title:","Total Expenses from the College Athletics Database"
+"SubTitle:","All Institutions - Variable: Total Expenses per Team for Men"
+"Time:","2007 - 2018"
+"Unit of Measure:","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$","$"
+"Citation:","Office of Postsecondary Education, Office of Postsecondary Education (U.S. Department of Education) (2020-09-16). Total Expenses: Total Expenses | 2018 | 2017 | 2008 | 2007 | Louisiana State University and Agricultural & Mechanical College, Ohio State University-Main Campus, Siena College, Stanford University, University of California-Los Angeles, University of Florida, University of Oregon | Total Expenses per Team for Men, 2007 - 2018. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  069-001-004 doi:https://doi.org/10.6068/DP17D2425AF7161"
+"ColumnCount:","30"
+"RowCount:","10"
+
+"Collegiate Sport","2018 - Louisiana State University and Agricultural & Mechanical College ($)","2018 - Ohio State University-Main Campus ($)","2018 - Siena College ($)","2018 - Stanford University ($)","2018 - University of California-Los Angeles ($)","2018 - University of Florida ($)","2018 - University of Oregon ($)","2017 - Louisiana State University and Agricultural & Mechanical College ($)","2017 - Ohio State University-Main Campus ($)","2017 - Siena College ($)","2017 - Stanford University ($)","2017 - University of California-Los Angeles ($)","2017 - University of Florida ($)","2017 - University of Oregon ($)","2008 - Louisiana State University and Agricultural & Mechanical College ($)","2008 - Ohio State University-Main Campus ($)","2008 - Siena College ($)","2008 - Stanford University ($)","2008 - University of California-Los Angeles ($)","2008 - University of Florida ($)","2008 - University of Oregon ($)","2007 - Louisiana State University and Agricultural & Mechanical College ($)","2007 - Ohio State University-Main Campus ($)","2007 - Siena College ($)","2007 - Stanford University ($)","2007 - University of California-Los Angeles ($)","2007 - University of Florida ($)","2007 - University of Oregon ($)"
+"Football",35319160,60076743,"",30470121,35463068,39149664,33024841,31561996,46444134,"",27000776,46765107,47342367,27716622,17908178,33063248,"",14857644,16803190,18837980,16293303,16408162,32538319,"",12892487,16872615,20691405,12641511
+"Basketball",9512515,10996364,3219292,7143168,15468381,9317385,10348633,8618878,20653121,3579394,6375064,9334174,9018168,9287092,3776093,4363889,1835834,3329097,6625357,7815425,4228306,3202539,3987583,1671304,3277456,5262775,8134621,3854636
+"Baseball",5752590,2558868,618591,3112496,4028223,4329889,3195451,5565682,2523463,611714,3240925,3692616,5038577,3243385,2302368,1137214,498509,1600228,1075496,2012955,"",2216341,1140016,485159,1531744,1149240,2669058,""
+"Track and Field and Cross Country (combined)",3032328,1722423,"",2388117,1959866,2584471,2562000,2274045,1514603,"",1895576,1671193,2735261,2571577,1519030,1154188,"",1386431,1136268,1383506,2273546,1294273,1113697,"",1238316,1137549,1230643,1573367
+"Swimming and Diving (combined)",1431103,"","",1410446,"",1600568,"",1294827,"","",1329346,"",1926983,"",703412,1530537,"",1174402,"",1176179,"",645759,1433410,"",865664,"",1036823,""
+"Golf",1272924,752260,182088,1030223,1034398,836263,1114323,1144641,676614,228139,1201884,941426,793242,998743,571110,388419,101746,696034,478750,547043,535429,411530,356592,129898,742359,457439,611139,524118
+"Tennis",1214139,1250995,185190,866802,1677718,1257773,798375,1163323,1285188,191543,816199,1337403,1224343,845882,552766,746461,76149,519617,639956,826267,404626,528398,479121,83636,540012,556430,717790,3686463
+"Lacrosse","",2678069,827321,"","","","","",2478744,1000196,"","","","","",780331,202477,"","","","","",730556,237736,"","","",""
+"Soccer","",1497535,731124,1738368,1631588,"","","",1511917,721411,1613060,1539575,"","","",713794,467991,894891,835576,"","","",671718,406846,752839,819470,"",""
+"Volleyball","",1170513,"",851058,1514998,"","","",1147523,"",852842,1738572,"","","",678238,"",489992,742486,"","","",616351,"",508363,605773,"",""
+
+
+
+"Publisher:", "Office of Postsecondary Education (U.S. Department of Education)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
