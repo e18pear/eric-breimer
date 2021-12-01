@@ -1,0 +1,24 @@
+"Title:","Total Expenses from the College Athletics Database"
+"SubTitle:","All Institutions - Variable: Total Expenses per Team for Men"
+"Time:","2008 - 2018"
+"Unit of Measure:","$","$","$","$","$","$","$","$","$","$","$","$","$","$"
+"Citation:","Office of Postsecondary Education, Office of Postsecondary Education (U.S. Department of Education) (2020-09-16). Total Expenses: Total Expenses | 2018 | 2008 | Louisiana State University and Agricultural & Mechanical College, Ohio State University-Main Campus, Siena College, Stanford University, University of California-Los Angeles, University of Florida, University of Oregon | Total Expenses per Team for Men, 2008 - 2018. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  069-001-004 doi:https://doi.org/10.6068/DP17D767C4FD85"
+"ColumnCount:","16"
+"RowCount:","10"
+
+"Collegiate Sport","2018 - Louisiana State University and Agricultural & Mechanical College ($)","2018 - Ohio State University-Main Campus ($)","2018 - Siena College ($)","2018 - Stanford University ($)","2018 - University of California-Los Angeles ($)","2018 - University of Florida ($)","2018 - University of Oregon ($)","2008 - Louisiana State University and Agricultural & Mechanical College ($)","2008 - Ohio State University-Main Campus ($)","2008 - Siena College ($)","2008 - Stanford University ($)","2008 - University of California-Los Angeles ($)","2008 - University of Florida ($)","2008 - University of Oregon ($)"
+"Football",35319160,60076743,"",30470121,35463068,39149664,33024841,17908178,33063248,"",14857644,16803190,18837980,16293303
+"Basketball",9512515,10996364,3219292,7143168,15468381,9317385,10348633,3776093,4363889,1835834,3329097,6625357,7815425,4228306
+"Baseball",5752590,2558868,618591,3112496,4028223,4329889,3195451,2302368,1137214,498509,1600228,1075496,2012955,""
+"Track and Field and Cross Country (combined)",3032328,1722423,"",2388117,1959866,2584471,2562000,1519030,1154188,"",1386431,1136268,1383506,2273546
+"Swimming and Diving (combined)",1431103,"","",1410446,"",1600568,"",703412,1530537,"",1174402,"",1176179,""
+"Golf",1272924,752260,182088,1030223,1034398,836263,1114323,571110,388419,101746,696034,478750,547043,535429
+"Tennis",1214139,1250995,185190,866802,1677718,1257773,798375,552766,746461,76149,519617,639956,826267,404626
+"Lacrosse","",2678069,827321,"","","","","",780331,202477,"","","",""
+"Soccer","",1497535,731124,1738368,1631588,"","","",713794,467991,894891,835576,"",""
+"Volleyball","",1170513,"",851058,1514998,"","","",678238,"",489992,742486,"",""
+
+
+
+"Publisher:", "Office of Postsecondary Education (U.S. Department of Education)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
